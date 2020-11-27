@@ -49,8 +49,6 @@ randomize = () => {
 
 randomize();
 
-//
-
 //Switching turns
 function put(e) {
   //Indicating the classList
